@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Keshari</h1>
 
 <h3 align="center">
-Computer Science Student | Full Stack Developer | AI & ML Enthusiast
+Computer Science Student | AI & ML Enthusiast
 </h3>
 
 <p align="center">
