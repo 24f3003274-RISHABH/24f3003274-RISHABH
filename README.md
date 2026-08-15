@@ -25,24 +25,7 @@ Computer Science Student | AI & ML Enthusiast
 
 ---
 
-## 🧠 Featured Project
 
-### ⚡ Hackesh AI Resume Analyzer
-
-An AI-powered resume analysis platform that helps users analyze their resume for:
-
-- ATS Score
-- Resume Strengths
-- Weakness Detection
-- Missing Skills
-- Project Suggestions
-- Career Role Matching
-- Improvement Tips
-
-🔗 **Live Demo:** https://hackesh-ai-resume-analyzer.vercel.app/  
-💻 **Source Code:** https://github.com/24f3003274-RISHABH/hackesh-ai-resume-analyzer
-
----
 
 ## 🛠 Tech Stack
 
