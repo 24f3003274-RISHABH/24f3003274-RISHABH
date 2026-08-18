@@ -365,15 +365,6 @@ with authentication, APIs, database architecture and cloud deployment.
 
 
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=24f3003274-RISHABH&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
