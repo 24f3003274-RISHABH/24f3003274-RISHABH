@@ -363,38 +363,8 @@ with authentication, APIs, database architecture and cloud deployment.
 
 > **Build things that solve real problems. Understand how they work. Make them better.**
 **
----
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=24f3003274-rishabh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f3003274-rishabh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=24f3003274-rishabh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=24f3003274-rishabh&theme=tokyonight&no-frame=true&no-bg=true&margin_w=10&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----**# 📊 GitHub Analytics
+**# 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=24f3003274-RISHABH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
