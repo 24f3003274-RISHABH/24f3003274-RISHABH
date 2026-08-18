@@ -1,23 +1,29 @@
 <div align="center">
 
-# 👋 Hi, I'm Rishabh Keshari
+<!-- HERO -->
 
-### Full-Stack Developer · AI/ML Builder · Data Science Student
-
-**Building real-world software products, AI-powered applications, and scalable backend systems.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=230&section=header&text=Rishabh%20Keshari&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Science%20Student&descAlignY=61&descSize=19&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://hackesh-ai-resume-analyzer.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Project-Hackesh%20AI-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Real-World+Software+%F0%9F%9A%80;RAG+%7C+LLMs+%7C+Generative+AI+%F0%9F%A4%96;Full-Stack+%7C+Backend+%7C+System+Design;Turning+Ideas+into+Production-Ready+Applications;Build+%7C+Learn+%7C+Contribute+%7C+Improve" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://linkedin.com/in/rishabh-keshari-664053318">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/24f3003274-RISHABH/hackesh-ai-resume-analyzer">
-<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:rishabhmyp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/24f3003274-RISHABH">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://hackesh-ai-resume-analyzer.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Project-Hackesh%20AI-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -26,118 +32,269 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=24f3003274-RISHABH&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=24f3003274-RISHABH&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student and Full-Stack Developer** interested in building practical software that solves real-world problems.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### 🎓 Education
+### Hi, I'm Rishabh 👋
 
-* 🎓 **B.Tech in Computer Science & Engineering** — Jawaharlal Nehru University
-* 🎓 **BS in Data Science** — IIT Madras
+I'm a **Computer Science Engineering student and Full-Stack Developer** who enjoys turning real-world problems into practical software solutions.
 
-### 🚀 What I Do
+I'm currently pursuing:
 
-* 🤖 Build **AI-powered applications**
-* 🔍 Work with **RAG, LLMs, embeddings and vector search**
-* 🌐 Build **full-stack web applications**
-* ⚡ Design and develop **REST APIs and backend systems**
-* 🗄️ Work with databases and data-driven applications
-* 🐳 Explore **Docker, deployment and scalable architecture**
-* 🌱 Learn and contribute to **open-source projects**
-* 🛠️ Build **real-world projects for students, developers and job seekers**
+🎓 **B.Tech in Computer Science & Engineering**
+**Jawaharlal Nehru University (JNU)**
+
+🎓 **BS in Data Science**
+**IIT Madras**
+
+My work sits at the intersection of:
+
+**Software Engineering × Artificial Intelligence × Data Science**
+
+I enjoy building applications that combine strong backend architecture with modern AI capabilities.
+
+</td>
+
+<td width="40%" valign="top">
+
+```text
+👨‍💻 Developer
+│
+├── Full-Stack
+│   ├── React
+│   ├── Node.js
+│   └── MongoDB
+│
+├── AI / ML
+│   ├── RAG
+│   ├── LLMs
+│   ├── ML
+│   └── Embeddings
+│
+├── Backend
+│   ├── REST APIs
+│   ├── FastAPI
+│   └── Authentication
+│
+└── Engineering
+    ├── System Design
+    ├── Docker
+    └── Cloud
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Current Focus
+# 🎓 Education
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 B.Tech — Computer Science & Engineering
+
+**Jawaharlal Nehru University (JNU)**
+
+Computer Science Engineering
+
+Focus Areas:
+
+* Data Structures & Algorithms
+* Operating Systems
+* Computer Networks
+* DBMS
+* Software Engineering
+* Artificial Intelligence
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 BS — Data Science
+
+**Indian Institute of Technology Madras (IIT Madras)**
+
+Data Science Student
+
+Focus Areas:
+
+* Statistics
+* Machine Learning
+* Data Analysis
+* Python
+* Mathematics
+* AI / ML
+* Data-driven Problem Solving
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 What I Build
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## 🤖 AI Systems
+
+RAG Applications
+
+LLM Tools
+
+AI Agents
+
+Semantic Search
+
+Embeddings
+
+Generative AI
+
+</td>
+
+<td width="33%" align="center">
+
+## 🌐 Full-Stack
+
+MERN Applications
+
+REST APIs
+
+Authentication
+
+Dashboards
+
+Real-time Systems
+
+Responsive UI
+
+</td>
+
+<td width="33%" align="center">
+
+## ⚙️ Engineering
+
+Backend Architecture
+
+System Design
+
+Database Design
+
+Docker
+
+Cloud Deployment
+
+Performance
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 AI / ML Engineering
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-Applications-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-Semantic%20Retrieval-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-Intelligent%20Workflows-F97316?style=for-the-badge"/>
+
+</div>
+
+### 🔬 Areas I'm Exploring
 
 ```text
 Artificial Intelligence
-├── RAG
-├── LLM Applications
-├── Generative AI
+│
+├── Retrieval-Augmented Generation
+├── Large Language Models
 ├── Embeddings
-├── Vector Search
-└── AI Agents
+├── Vector Databases
+├── Semantic Search
+├── AI Agents
+└── Generative AI
 
-Full-Stack Engineering
-├── React
-├── Node.js
-├── Express
-├── FastAPI
-└── MongoDB
-
-Software Engineering
-├── REST APIs
-├── Authentication
-├── Database Design
-├── System Design
-├── Docker
-└── Cloud Deployment
-
-Data Science
-├── Python
-├── Statistics
-├── Machine Learning
-├── Data Analysis
-└── Deep Learning
+Machine Learning
+│
+├── Supervised Learning
+├── Unsupervised Learning
+├── Model Evaluation
+├── Feature Engineering
+├── Deep Learning
+└── Data Analysis
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
-### 💻 Languages
+### Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,html,css"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,html,css" />
 </p>
 
-### 🌐 Full-Stack Development
+### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,mongodb"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### 🤖 AI / ML
+### Backend
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM-Large%20Language%20Models-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-Applications-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Search-Semantic%20Search-0891B2?style=for-the-badge"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 
+### Databases & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+**AI / Data:**
 `Scikit-Learn` · `TensorFlow` · `Pandas` · `NumPy` · `FAISS` · `Hugging Face`
 
-### ⚙️ Tools & DevOps
+### DevOps & Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel" />
 </p>
 
-`REST APIs` · `JWT` · `API Design` · `Database Design` · `Cloud Deployment`
+**Engineering:**
+`REST APIs` · `JWT` · `API Design` · `Database Design` · `Cloud Deployment` · `CI/CD`
 
 ---
 
 # 🚀 Real-World Projects
 
-## 🤖 Hackesh AI — Resume Analyzer
+I don't just build tutorial projects — I focus on **practical applications that solve real problems for users, students, developers and organizations.**
 
-An AI-powered application designed to help students and job seekers analyze and improve their resumes.
+### 🤖 Hackesh AI — Resume Analyzer
 
-**Focus:**
+AI-powered resume analysis platform designed to help users understand and improve their resumes.
 
-`AI Integration` · `Full-Stack Development` · `Resume Analysis` · `API Architecture`
+**Focus:** AI Integration · Full-Stack Development · Resume Intelligence · API Architecture
 
-<p>
 <a href="https://hackesh-ai-resume-analyzer.vercel.app/">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Open%20Application-7C3AED?style=for-the-badge"/>
 </a>
@@ -145,25 +302,66 @@ An AI-powered application designed to help students and job seekers analyze and 
 <a href="https://github.com/24f3003274-RISHABH/hackesh-ai-resume-analyzer">
 <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-</p>
 
 ---
 
-## 🧠 RAG & AI Research Systems
+### 📚 AI Research / RAG Systems
 
-Building systems that can process documents, retrieve relevant information and generate contextual answers using:
+Building intelligent systems capable of processing documents and retrieving relevant information using **embeddings, vector search and LLM-based generation**.
 
-`RAG` · `Embeddings` · `FAISS` · `Semantic Search` · `LLMs`
+**Focus:** RAG · FAISS · Embeddings · Semantic Search · LLM Applications
 
 ---
 
-## 🌐 Full-Stack Applications
+### 🌐 Full-Stack Platforms
 
 Building practical platforms using:
 
 `React` + `Node.js` + `Express` + `MongoDB`
 
-with authentication, REST APIs, database architecture and cloud deployment.
+with authentication, APIs, database architecture and cloud deployment.
+
+---
+
+# ⚡ Engineering Mindset
+
+```text
+                 ┌───────────────────┐
+                 │   REAL PROBLEM     │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │  DESIGN SOLUTION  │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │   BUILD SYSTEM    │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │ TEST & DEBUG      │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │ OPTIMIZE          │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │ DEPLOY            │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │ IMPROVE           │
+                 └───────────────────┘
+```
+
+> **Build things that solve real problems. Understand how they work. Make them better.**
 
 ---
 
@@ -171,7 +369,7 @@ with authentication, REST APIs, database architecture and cloud deployment.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=24f3003274-RISHABH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=24f3003274-RISHABH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f3003274-RISHABH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
@@ -189,102 +387,87 @@ with authentication, REST APIs, database architecture and cloud deployment.
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=24f3003274-RISHABH&theme=tokyo-night&hide_border=true&area=true&custom_title=Rishabh%20Keshari%27s%20Contribution%20Graph" width="100%"/>
-
-</div>
-
----
-
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=24f3003274-RISHABH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=24f3003274-RISHABH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 
 </div>
 
 ---
 
-# 📌 GitHub Profile
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/24f3003274-RISHABH?style=for-the-badge&logo=github&label=Followers"/>
-
-<img src="https://img.shields.io/github/stars/24f3003274-RISHABH?style=for-the-badge&logo=github&label=Total%20Stars"/>
-
-<img src="https://img.shields.io/github/commit-activity/y/24f3003274-RISHABH/hackesh-ai-resume-analyzer?style=for-the-badge&logo=github&label=Project%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=24f3003274-RISHABH&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🧩 Developer Philosophy
+# 🐍 Contribution Snake
 
-> **Build things that solve real problems.
-> Understand how they work.
-> Make them better.
-> Share what you learn.**
+<div align="center">
 
-I believe good software is more than just writing code.
+<img src="https://raw.githubusercontent.com/24f3003274-RISHABH/24f3003274-RISHABH/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🌟 Developer Profile
+
+<div align="center">
+
+|       🚀 Building       |     🧠 Learning     |   🌱 Contributing   |
+| :---------------------: | :-----------------: | :-----------------: |
+| Real-World Applications |    System Design    |     Open Source     |
+|       AI Products       | Distributed Systems | Developer Community |
+|   Full-Stack Platforms  |     Advanced ML     |  Knowledge Sharing  |
+|       RAG Systems       |  Cloud Architecture |    Collaboration    |
+
+</div>
+
+---
+
+# 🎯 2026 Focus
 
 ```text
-Problem
-   ↓
-Understand
-   ↓
-Design
-   ↓
-Build
-   ↓
-Test
-   ↓
-Optimize
-   ↓
-Deploy
-   ↓
-Improve
+┌─────────────────────────────────────────────────────────┐
+│                    2026 ROADMAP                         │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  ███████████████████░░  Full-Stack Engineering          │
+│  ██████████████████░░░  AI / RAG Applications           │
+│  ████████████████░░░░░  Machine Learning                 │
+│  ██████████████░░░░░░░  System Design                   │
+│  █████████████░░░░░░░░  Open Source                     │
+│  ████████████░░░░░░░░░  Cloud & DevOps                  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🌱 Open Source & Collaboration
+# 🤝 Open Source & Collaboration
 
-I'm interested in contributing to and collaborating on:
+I'm interested in contributing to projects involving:
 
-* 🤖 AI / ML projects
-* 🔍 RAG & LLM applications
-* 🌐 Full-stack applications
-* ⚙️ Backend systems
-* 📊 Data Science projects
-* 🛠️ Developer tools
-* ☁️ Cloud & scalable systems
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 🔍 RAG & LLM Applications
+* 🌐 Full-Stack Development
+* ⚙️ Developer Tools
+* 📊 Data Science
+* ☁️ Cloud & Backend Engineering
 
-**Build → Learn → Contribute → Improve**
-
----
-
-# 📚 Currently Learning
-
-```text
-System Design
-Distributed Systems
-Advanced Backend Architecture
-Generative AI
-RAG Pipelines
-LLM Applications
-Machine Learning
-Cloud & DevOps
-Open Source Development
-```
+I'm always interested in **building, contributing, learning and collaborating**.
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -306,42 +489,61 @@ Open Source Development
 
 <div align="center">
 
-### 💻 Build. Learn. Contribute. Repeat.
+## 💻 Build. Learn. Contribute. Repeat.
 
-⭐ If you find my work useful, consider starring a repository.
+### ⭐ If you find my work useful, consider starring a repository!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=120&section=footer"/>
 
 </div>
 ```
 
-### Yes — these are the contribution components you were looking for
+### ⚠️ One important thing about the Snake
 
-Your final profile will have:
+The line:
 
-**📊 GitHub Analytics**
+```text
+https://raw.githubusercontent.com/24f3003274-RISHABH/24f3003274-RISHABH/output/github-contribution-grid-snake-dark.svg
+```
 
-* Total contributions/statistics
-* Most-used languages
+**will not automatically work just by putting it in README.** You need a GitHub Action to generate that SVG. Otherwise you'll get another broken-image icon.
 
-**🔥 Contribution Streak**
+For the rest:
 
-* Current streak
-* Longest streak
-* Total contribution days
+* 🎨 Hero animation
+* ⌨️ Typing animation
+* 📊 GitHub stats
+* 🔥 Streak
+* 🏆 Trophies
+* 📈 Activity graph
+* 👁️ Profile views
 
-**📈 Contribution Activity**
+are external services and should render if those services are available.
 
-* A visual graph of your GitHub activity over time
+### My recommendation for your profile
 
-**🏆 GitHub Achievements**
+This version gives a much stronger signal:
 
-* GitHub trophies based on your actual activity
+**Student ❌**
 
-**👥 GitHub Profile**
+→ **B.Tech CSE @ JNU + BS Data Science @ IIT Madras**
 
-* Followers
-* Stars
-* Repository activity
+**"AI enthusiast" ❌**
 
-And importantly, **the numbers come from your actual GitHub account**. You don't need to manually update them.
+→ **AI/ML Builder → RAG → LLMs → Vector Search → AI Applications**
 
-One warning based on the issue you showed me earlier: these external stats services can occasionally show broken images. Your **Contribution Activity** service is already working in your screenshot, so keep that one. If the Stats/Streak/Trophy services again show broken-image icons, the robust solution is to move those three to a **GitHub Actions-generated setup** rather than relying on public Vercel services.
+**"I know React/Node/Python" ❌**
+
+→ **Full-Stack + Backend + System Design + Cloud**
+
+**Tutorial projects ❌**
+
+→ **Real-world applications + deployed products**
+
+**Static profile ❌**
+
+→ **GitHub stats + streak + trophies + activity graph + contributions**
+
+And importantly, **don't fake contribution numbers, open-source impact, or production experience**. Let the GitHub activity widgets and repositories prove it. That makes the profile much more credible to a developer or recruiter.
