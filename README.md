@@ -366,16 +366,6 @@ with authentication, APIs, database architecture and cloud deployment.
 
 
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/24f3003274-RISHABH/24f3003274-RISHABH/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # 🌟 Developer Profile
 
 <div align="center">
