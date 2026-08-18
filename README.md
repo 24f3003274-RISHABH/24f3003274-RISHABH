@@ -362,7 +362,7 @@ with authentication, APIs, database architecture and cloud deployment.
 ```
 
 > **Build things that solve real problems. Understand how they work. Make them better.**
-
+**
 ---
 # 📊 GitHub Analytics
 
@@ -392,6 +392,29 @@ with authentication, APIs, database architecture and cloud deployment.
 
 <img src="https://github-profile-trophy.vercel.app/?username=24f3003274-rishabh&theme=tokyonight&no-frame=true&no-bg=true&margin_w=10&row=1&column=7" alt="GitHub Trophies" />
 
+</div>
+
+---**# 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=24f3003274-RISHABH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=24f3003274-RISHABH&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=24f3003274-RISHABH&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=24f3003274-RISHABH&theme=tokyonight&no-frame=true&no-bg=true&margin_w=10&row=1&column=7" />
 </div>
 
 ---
