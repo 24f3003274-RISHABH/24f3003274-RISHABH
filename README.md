@@ -364,14 +364,13 @@ with authentication, APIs, database architecture and cloud deployment.
 > **Build things that solve real problems. Understand how they work. Make them better.**
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=24f3003274-RISHABH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=24f3003274-rishabh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f3003274-RISHABH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f3003274-rishabh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
 
 </div>
 
@@ -381,7 +380,7 @@ with authentication, APIs, database architecture and cloud deployment.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=24f3003274-RISHABH&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=24f3003274-rishabh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -391,10 +390,11 @@ with authentication, APIs, database architecture and cloud deployment.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=24f3003274-RISHABH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=24f3003274-rishabh&theme=tokyonight&no-frame=true&no-bg=true&margin_w=10&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
+---
 ---
 
 # 📈 Contribution Activity
@@ -498,52 +498,3 @@ I'm always interested in **building, contributing, learning and collaborating**.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=120&section=footer"/>
 
 </div>
-```
-
-### ⚠️ One important thing about the Snake
-
-The line:
-
-```text
-https://raw.githubusercontent.com/24f3003274-RISHABH/24f3003274-RISHABH/output/github-contribution-grid-snake-dark.svg
-```
-
-**will not automatically work just by putting it in README.** You need a GitHub Action to generate that SVG. Otherwise you'll get another broken-image icon.
-
-For the rest:
-
-* 🎨 Hero animation
-* ⌨️ Typing animation
-* 📊 GitHub stats
-* 🔥 Streak
-* 🏆 Trophies
-* 📈 Activity graph
-* 👁️ Profile views
-
-are external services and should render if those services are available.
-
-### My recommendation for your profile
-
-This version gives a much stronger signal:
-
-**Student ❌**
-
-→ **B.Tech CSE @ JNU + BS Data Science @ IIT Madras**
-
-**"AI enthusiast" ❌**
-
-→ **AI/ML Builder → RAG → LLMs → Vector Search → AI Applications**
-
-**"I know React/Node/Python" ❌**
-
-→ **Full-Stack + Backend + System Design + Cloud**
-
-**Tutorial projects ❌**
-
-→ **Real-world applications + deployed products**
-
-**Static profile ❌**
-
-→ **GitHub stats + streak + trophies + activity graph + contributions**
-
-And importantly, **don't fake contribution numbers, open-source impact, or production experience**. Let the GitHub activity widgets and repositories prove it. That makes the profile much more credible to a developer or recruiter.
