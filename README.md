@@ -362,33 +362,8 @@ with authentication, APIs, database architecture and cloud deployment.
 ```
 
 > **Build things that solve real problems. Understand how they work. Make them better.**
-**
 
-**# 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=24f3003274-RISHABH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=24f3003274-RISHABH&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=24f3003274-RISHABH&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=24f3003274-RISHABH&theme=tokyonight&no-frame=true&no-bg=true&margin_w=10&row=1&column=7" />
-</div>
-
----
----
 
 # 📈 Contribution Activity
 
@@ -486,8 +461,4 @@ I'm always interested in **building, contributing, learning and collaborating**.
 
 ### ⭐ If you find my work useful, consider starring a repository!
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=120&section=footer"/>
-
-</div>
+And importantly, **don't fake contribution numbers, open-source impact, or production experience**. Let the GitHub activity widgets and repositories prove it. That makes the profile much more credible to a developer or recruiter.
