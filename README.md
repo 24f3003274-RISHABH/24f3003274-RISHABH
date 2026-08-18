@@ -441,5 +441,3 @@ I'm always interested in **building, contributing, learning and collaborating**.
 ## 💻 Build. Learn. Contribute. Repeat.
 
 ### ⭐ If you find my work useful, consider starring a repository!
-
-And importantly, **don't fake contribution numbers, open-source impact, or production experience**. Let the GitHub activity widgets and repositories prove it. That makes the profile much more credible to a developer or recruiter.
